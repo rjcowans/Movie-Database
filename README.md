@@ -23,3 +23,5 @@ Thank you for you time.
 
 Richard Cowans
 
+Shoutout to @PS2emu for working with the super 50 line SQL Statement for bringing the top 5 movies based on genres, actors,keywords,rating, and vote
+
