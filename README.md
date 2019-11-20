@@ -5,9 +5,11 @@ In order to properly simulate the code.
 
 One would need to run https://github.com/rjcowans/Movie-Database/blob/master/src/Data_Exfil/Extractor.py
 
-Using the two csv found in the folder at -> https://github.com/rjcowans/Movie-Database/tree/master/inputse
+Using the two csv found in the folder at -> https://github.com/rjcowans/Movie-Database/tree/master/input
 
-The Extractor will pipe out 6 csv that need to be in the same working directory as the java file
+The Extractor will pipe out 6 csvs that would look like the files in this link https://github.com/rjcowans/Movie-Database/tree/master/output
+
+When attempting to run theses 6 csvs need to be in the same working directory as the java file
 
 Once a MySQL Datbase is Required. 
 
@@ -18,4 +20,6 @@ After that one would need the **mssql-jdbc-7.2.1.jre8.jar** from -> https://dev.
 Then One can complile and run the java application
 
 Thank you for you time.
+
+Richard Cowans
 
